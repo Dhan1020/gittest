@@ -1,0 +1,22 @@
+h1{
+    color:darkcyan;
+    font-size: 60px;
+    background-color: black;
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+    font-size: 0;
+}
+nav a{
+    color:cadetblue;
+    font-size: 50px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 20px;
+    transition: 0.5s;
+}
+nav a:hover{
+    background-color:chocolate;
+}
