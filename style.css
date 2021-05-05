@@ -1,7 +1,7 @@
 h1{
-    color:darkcyan;
+    color:cadetblue;
     font-size: 60px;
-    background-color: black;
+    background-color:black;
 }
 
 nav{
@@ -10,7 +10,7 @@ nav{
     font-size: 0;
 }
 nav a{
-    color:cadetblue;
+    color:cornflowerblue;
     font-size: 50px;
     text-decoration: none;
     display: inline-block;
